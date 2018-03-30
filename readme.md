@@ -16,3 +16,12 @@ Open  in your browser. It will take you through the process to set up configurat
 	If you did not enter a password, note the password given to you.
 	If you did not provide a username, it will be
 	The installer should then send you to the <a href="wp-login.php">login page</a>. Sign in with the username and password you chose during the installation. If a password was generated for you, you can then click on Profile1; to change the password.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* The project was purely developed by morgyken
+
